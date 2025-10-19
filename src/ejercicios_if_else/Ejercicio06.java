@@ -1,6 +1,8 @@
+package ejercicios_if_else;
 
+import java.util.Scanner;
 
-
+public class Ejercicio06 {
 
 public static void main(String[] args) {
 
