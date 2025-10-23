@@ -5,14 +5,23 @@ import java.util.Scanner;
 public class Ejercicio06 {
 
 	public static void main(String[] args) {
+		
+		//Crear scanner
 		Scanner reader= new Scanner(System.in);
 		
+		//Variable del número de mes
 		int mes;
+		
+		//Variable del año
 		int ano;
+		
+		//Variable del día
 		int dia=0 ;
 		
+		//Variable booleana para saber si el año es bisiesto
 		boolean esBisiesto;
 		
+		//Pregunta un número de mes
 		System.out.println("Introduce un número de mes");
 		mes= reader.nextInt();
 		
