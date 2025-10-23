@@ -121,12 +121,4 @@ public class Ejercicio03 {
 				// Cerrar el scanner
 				reader.close();
 			}
-
-		}
-	
-		
-		reader.close();
-
 	}
-
-}
