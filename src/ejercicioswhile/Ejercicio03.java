@@ -1,6 +1,5 @@
 package ejercicioswhile;
 
-import java.io.Reader;
 import java.util.Scanner;
 
 public class Ejercicio03 {
